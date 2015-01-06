@@ -1,0 +1,5 @@
+ Project based on the Sparkfun IR lib:
+
+ https://github.com/shirriff/Arduino-IRremote
+
+ For a better instalation change the library folder name to 'IRRemote' (without quotes).
