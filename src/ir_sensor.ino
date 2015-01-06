@@ -1,4 +1,4 @@
-//#include <IRremoteInt.h>
+
 #include <IRremote.h>
 
 /* RGB Remote Control
