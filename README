@@ -3,3 +3,5 @@
  https://github.com/shirriff/Arduino-IRremote
 
  For a better instalation change the library folder name to 'IRRemote' (without quotes).
+
+ The schematic located at the resources folder only fit for the model used for this prototype. Any other IR sensor must use it's own specification.
